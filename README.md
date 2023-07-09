@@ -9,3 +9,6 @@ Interactive map with relevant information about the plants of interest in this r
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+| Plant	| Target | Latitude | Longitude | Reference |
+|--|--|--|--|--|
