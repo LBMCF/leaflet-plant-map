@@ -49,4 +49,4 @@ Interactive map with relevant information about the plants of interest in this r
 | _Tacinga inamoena_ | Taxonomy | -9.148250 | -37.201139 | Bezerra et al. (2017c) |
 | _Opuntia ficus-indica_ | Bioprospecting | -9.148250 | -37.201139 | Bomfim et al. (2020) |
 | _Cereus jamacaru_ | Bioprospecting | -9.148250 | -37.201139 | Bomfim et al. (2020) |
-| _Opuntia ficus-indica _ | Bioprospecting | 11.787959138851 | 77.8008024848795 | Baskar et al. (2020) |
+| _Opuntia ficus-indica_ | Bioprospecting | 11.787959138851 | 77.8008024848795 | Baskar et al. (2020) |
